@@ -1,0 +1,14 @@
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\controllers\PedidoController.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\domain\ItemPedido.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\domain\Pedido.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\domain\PedidoStatus.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\domain\ValorMonetario.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\eventos\EstadoPedidoMudou.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\infra\message\EstadoPedidoMudouDeserializer.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\infra\message\EstadoPedidoMudouSerializer.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\infra\message\PetFriendsPedidosMessageConfig.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\infra\repository\PedidoRepository.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\infra\repository\PedidoStatusConverter.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\infra\repository\ValorMonetarioConverter.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\pedidos\infra\service\PedidoService.java
+C:\dev\Faculdade\Microsserviços e DevOps com Spring Boot e Spring Cloud\AT\Projeto\pedidos\src\main\java\br\edu\infnet\PetFriendsPedidosApplication.java

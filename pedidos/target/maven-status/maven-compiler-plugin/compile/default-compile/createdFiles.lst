@@ -1,0 +1,14 @@
+br\edu\infnet\pedidos\infra\message\EstadoPedidoMudouSerializer.class
+br\edu\infnet\pedidos\infra\repository\ValorMonetarioConverter.class
+br\edu\infnet\pedidos\domain\ValorMonetario.class
+br\edu\infnet\pedidos\infra\repository\PedidoStatusConverter.class
+br\edu\infnet\pedidos\infra\message\EstadoPedidoMudouDeserializer.class
+br\edu\infnet\PetFriendsPedidosApplication.class
+br\edu\infnet\pedidos\domain\Pedido.class
+br\edu\infnet\pedidos\eventos\EstadoPedidoMudou.class
+br\edu\infnet\pedidos\infra\message\PetFriendsPedidosMessageConfig.class
+br\edu\infnet\pedidos\infra\service\PedidoService.class
+br\edu\infnet\pedidos\domain\ItemPedido.class
+br\edu\infnet\controllers\PedidoController.class
+br\edu\infnet\pedidos\domain\PedidoStatus.class
+br\edu\infnet\pedidos\infra\repository\PedidoRepository.class
